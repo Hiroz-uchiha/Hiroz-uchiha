@@ -45,18 +45,18 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hirozzy&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hirozzy&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hiroz-uchiha&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hiroz-uchiha&theme=radical" />
 </p>
+
 
 ---
 
 ### 📬 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com)
-- 🌐 [Portfolio](https://your-portfolio-link.com)
-- 📝 [Blog](https://your-blog-link.com)
-- 📫 Email: your.email@example.com
+- 💼 [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/yehezkiel-fernandes/))
+- 🌐 [Portfolio](https://portofolio-beta-two.vercel.app/)
+- 📫 Email: yehezkielfernandes1@gmail.com
 
 ---
 
