@@ -2,16 +2,31 @@
 <h3 align="center">Website • Mobile • Game Developer & Writer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+Hub+of+Creativity!;Fullstack+MERN+Developer;Mobile+Flutter+%2B+Firebase+Specialist;Unity+Game+Maker+by+Night;Lifelong+Learner+%26+Tech+Writer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Website+Developer;Mobile+Developer;Game+Developer;Always+Building+%26+Learning" alt="Typing SVG" />
 </p>
+
 
 ---
 
 ## 🌟 About Me
 
-> 👨‍💻 I started coding from curiosity, and now it's my full-blown passion.  
-> 🎨 I build elegant websites, powerful mobile apps, and immersive games.  
-> 📚 I love to learn, teach, and tell stories through code & design.  
+Hi! I’m **Yehezkiel**, a passionate and adaptable developer with strong interests in **Website Development**, **Mobile App Development**, **UI/UX Design**, and **Game Programming**.
+
+🧩 I work comfortably on both frontend and backend development, tailoring solutions based on each project's unique needs.  
+🎓 I completed my undergraduate studies in just **3.5 years**, showcasing discipline and dedication to technology.
+
+Currently, I serve as a **Laboratory Assistant at Mikroskil University**, where I help students understand programming concepts while continuing to grow my own skills. This role sharpens my communication and real-world problem-solving abilities.
+
+🛠️ My stack includes:
+- **React** for web
+- **Flutter** for mobile
+- **Node.js + Express** for backend
+- Various **APIs** for integration
+- **Figma** for UI/UX design
+- **Unity** for game development
+
+For me, good software is not just about functionality. It’s about crafting experiences that are seamless, user-friendly, and impactful.
+
 
 ---
 
@@ -50,32 +65,6 @@
 
 ---
 
-## 🚀 Currently Working On
-
-- ✨ Revamping my portfolio with Next.js + Vercel
-- 📱 Finishing a Flutter mobile app for daily productivity
-- 🎮 Exploring Unity 2D to build a pixel art puzzle game
-
----
-
-## 🎓 Currently Learning
-
-- TypeScript & Zustand for React state management
-- Clean Architecture in Flutter
-- Shader Graph for Unity VFX
-
----
-
-## 🧩 Featured Projects
-
-| Name | Tech | Link |
-|------|------|------|
-| 📝 Personal Portfolio | Next.js + Tailwind | [Live Site](https://portofolio-beta-two.vercel.app/) |
-| 📱 Productivity App | Flutter + Firebase | *Coming soon...* |
-| 🎮 Puzzle Platformer | Unity 2D | *In Progress* |
-
----
-
 ## 🏆 GitHub Trophy Cabinet
 
 <p align="center">
@@ -98,11 +87,6 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/yehezkiel-fernandes/)
 - 🌐 [Portfolio](https://portofolio-beta-two.vercel.app/)
 - 📫 Email: yehezkielfernandes1@gmail.com
-
----
-
-> “Code is like poetry — it should be concise, meaningful, and beautiful.” ✨  
-> — *Yehezkiel Fernandes*
 
 ---
 
