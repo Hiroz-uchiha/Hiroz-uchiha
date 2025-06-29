@@ -54,7 +54,7 @@
 
 ### 📬 Let's Connect
 
-- 💼 [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/yehezkiel-fernandes/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/yehezkiel-fernandes/)
 - 🌐 [Portfolio](https://portofolio-beta-two.vercel.app/)
 - 📫 Email: yehezkielfernandes1@gmail.com
 
