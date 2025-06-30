@@ -88,11 +88,4 @@ For me, good software is not just about functionality. It’s about crafting exp
 - 🌐 [Portfolio](https://portofolio-beta-two.vercel.app/)
 - 📫 Email: yehezkielfernandes1@gmail.com
 
----
-
-## ☕ Fun Facts
-
-- 🧠 I solve problems by breaking them into memes in my mind first  
-- 🎧 I code better with chillhop beats  
-- 🌍 I dream of building tools that help people live better
 
